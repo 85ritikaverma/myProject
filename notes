@@ -1,0 +1,8 @@
+npm i react
+npm i react-dom
+npm i parcel
+
+
+
+when data change then component rerender occur
+useEffect check karta h 
